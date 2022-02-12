@@ -31,7 +31,7 @@ for file_name in os.listdir(source_path):
             comment = "/* " + item['comment'] + " */"
             key = "\"" + item['key'] + "\""
             value = "\"" + item['value'] + "\""
-            line = comment + "\n" + key + " = " + value + "\n"
+            line = comment + "\n" + key + " = " + value + ";\n"
             file.write(line)
 
 

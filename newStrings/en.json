@@ -3,7 +3,7 @@
         "key": "SayGoodBye",
         "value": "GoodBye",
         "comment": "Used when saying GoodBye"
-    }，
+    },
     {
         "key": "SayHello",
         "value": "Hello",

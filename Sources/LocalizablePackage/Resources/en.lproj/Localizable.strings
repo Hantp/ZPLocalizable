@@ -1,1 +1,4 @@
 "Greet" = "Hello";
+
+/* Used when saying GoodBye */
+"SayGoodBye" = "GoodBye"

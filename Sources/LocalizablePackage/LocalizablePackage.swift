@@ -7,6 +7,6 @@ public struct LocalizablePackage {
     }
 }
 
-extension Bundle {
-    public static var localizationBundleModule = Bundle.module
+public class LocalizationBundle {
+    public static var module = Bundle.module
 }

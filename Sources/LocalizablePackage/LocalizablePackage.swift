@@ -7,6 +7,6 @@ public struct LocalizablePackage {
     }
 }
 
-public class ThisConstants {
-    public static let greeting = NSLocalizedString("Greet", bundle: Bundle.module , value: "nihao", comment: "greeting")
+extension Bundle {
+    public static var localizationBundleModule = Bundle.module
 }

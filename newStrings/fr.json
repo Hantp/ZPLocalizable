@@ -3,5 +3,10 @@
         "key": "SayGoodBye",
         "value": "Au revoir",
         "comment": "Used when saying GoodBye"
+    },
+    {
+        "key": "SayHello",
+        "value": "Bonjour",
+        "comment": "Used when saying Hello"
     }
 ]
